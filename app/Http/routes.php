@@ -1,5 +1,6 @@
 <?php
 
+// Temporarily set an authenticated user for the app.
 Auth::loginUsingId(1);
 
 /*
